@@ -1,1 +1,1 @@
-Personal Kanban tool, forked from Planka v1.26.3 (MIT), extended step by step
+Personal Kanban tool, forked from Planka v1.26.2 (MIT), extended step by step
